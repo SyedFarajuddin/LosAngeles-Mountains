@@ -15,7 +15,7 @@ body {
   background-size: cover;
 }
 .section-b {
-  height: 105vh;;
+  height: 105vh;
 }
 .section-img {
   width: 100%;
@@ -119,7 +119,7 @@ body {
 }
 .banner-text {
   position: absolute;
-  top: 8rem;
+  top: 5rem;
   padding-left: 8rem;
 }
 .next-bannertext {
@@ -136,7 +136,7 @@ body {
   padding-left: 13rem;
   padding-right: 8rem;
   margin-top: 0;
-  top: 20rem;
+  top: 17rem;
   position: absolute;
 }
 .carousel-indicators li {
@@ -146,7 +146,6 @@ body {
   top: 2.5rem !important;
   right: 8rem !important;
 }
-
 
 .carousel-holder {
   background-color: rgba(65, 79, 107, 0.85);
@@ -318,7 +317,7 @@ body {
   }
   .banner-text {
     padding-left: 1rem;
-    top: 6rem;
+    top: 5rem;
   }
   .carousel-indicators {
     padding-left: 13rem !important;
@@ -345,7 +344,7 @@ body {
     font-weight: 700;
     padding-left: 3rem;
     padding-right: 1rem;
-    top: 11rem;
+    top: 10rem;
   }
   .scheduledTitle {
     font-size: 2rem;
